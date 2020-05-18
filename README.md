@@ -58,3 +58,6 @@ DATABASE_ROUTERS = [
     ...
 ]
 ```
+# Improved
+
+Replaced deprecated `django.utils.six` module with `six` library
